@@ -1,0 +1,5 @@
+data/images/tubingen_000000_000019_leftImg8bit.png
+data/images/tubingen_000001_000019_leftImg8bit.png
+data/images/tubingen_000002_000019_leftImg8bit.png
+data/images/tubingen_000003_000019_leftImg8bit.png
+data/images/tubingen_000004_000019_leftImg8bit.png
