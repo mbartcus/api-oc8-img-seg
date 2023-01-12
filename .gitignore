@@ -6,3 +6,9 @@ app.yaml
 Dockerfile
 
 .gcloudignore
+
+.venv/
+
+.vscode/settings.json
+
+env/

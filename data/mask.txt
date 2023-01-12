@@ -1,5 +1,3 @@
 data/mask/tubingen_000000_000019_gtFine_labelIds.png
 data/mask/tubingen_000001_000019_gtFine_labelIds.png
 data/mask/tubingen_000002_000019_gtFine_labelIds.png
-data/mask/tubingen_000003_000019_gtFine_labelIds.png
-data/mask/tubingen_000004_000019_gtFine_labelIds.png
