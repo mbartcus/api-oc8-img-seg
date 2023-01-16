@@ -10,6 +10,7 @@ import albumentations as aug
 import segmentation_models as sm
 import my_classes as mc
 from flask import Flask, request, Response
+import os
 
 app = Flask(__name__)
 
@@ -110,4 +111,5 @@ def auto_car():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=True, host='0.0.0.0', port=port)
