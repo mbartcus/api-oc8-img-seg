@@ -1,8 +1,6 @@
 
 tensorflow-apple-metal-conda.yml
 
-Dockerfile
-
 .gcloudignore
 
 .venv/
